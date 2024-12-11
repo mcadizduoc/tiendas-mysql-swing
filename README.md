@@ -9,3 +9,5 @@ La empresa ParkMall del rubro de las grandes tiendas está buscando tener mejor 
 Consideradiones:
 - El software debe estar construido utilizando arquitectura MVC
 - Es necesario validar los datos ingresados (Asegurarse de que un campo numérico sea ingresado con número)
+
+NOTA: Para crear la tabla se debe crear el esquema primero y luego ejecutar el script sql adjunto
